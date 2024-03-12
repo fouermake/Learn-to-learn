@@ -9,14 +9,7 @@
 * CSS 
     1. Flex;
     2. Анимация элементов через keyframes и transition;
-<<<<<<< HEAD
-    3. Кроссбраузерность;
-
-## Демонстрация
-* Сайт доступен по ссылке: https://fouermake.com/learntolearn
-=======
     3. Адаптация под современные браузеры;
 
 ## Демонстрация
 * Сайт доступен по ссылке: https://fouermake.com/learntolearn
->>>>>>> a7f1bd8a3e2dd430f1b444f580ad3d7b2f76588d
