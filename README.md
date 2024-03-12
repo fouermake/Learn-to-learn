@@ -10,6 +10,7 @@
     1. Flex / position
     2. Анимация элементов через keyframes и transition
     3. Кроссбраузерность
+    4. Адаптивный дизайн
 
 ## Демонстрация
 * Сайт доступен по ссылке: https://fouermake.com/learntolearn
