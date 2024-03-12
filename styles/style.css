@@ -28,6 +28,12 @@
 	width: 100%;
 	margin: 0 auto;
 	font-family: 'Helvetica Neue', 'Arial', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+	-webkit-text-size-adjust: 100%;
+	-ms-font-feature-settings: "kern" 1;
+	font-feature-settings: "kern";
 }
 
 .header {
