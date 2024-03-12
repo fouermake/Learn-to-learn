@@ -13,7 +13,3 @@
 
 ## Демонстрация
 * Сайт доступен по ссылке: https://fouermake.com/learntolearn
-=======
-# Learn-to-learn
-Проектная работа / Яндекс Практикум.
->>>>>>> 2cedaefa0ad30660f1e9496c910bf0b5e520a99b
