@@ -1,0 +1,8 @@
+.footer__author_link {
+	text-decoration: none;
+	color: #2f80ed;
+}
+
+.footer__author_link:hover {
+	color: #5a9aee;
+}

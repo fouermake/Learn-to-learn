@@ -56,7 +56,7 @@
 	width: 228px;
 }
 
-.logo_place_header {
+.logo__place_header {
 	position: absolute;
 	left: 64px;
 	top: 30px;
@@ -371,13 +371,7 @@
 .footer__column_content_copyright {
 	-ms-flex-preferred-size: 711px;
 	flex-basis: 711px;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
 	-webkit-box-orient: vertical;
-	-webkit-box-direction: normal;
-	-ms-flex-direction: column;
-	flex-direction: column;
 	-webkit-box-align: start;
 	-ms-flex-align: start;
 	align-items: flex-start;
@@ -386,7 +380,7 @@
 	justify-content: space-between;
 }
 
-.rotation_animation {
+.rotation {
 	-webkit-animation: rotation 30s infinite linear;
 	animation: rotation 30s infinite linear;
 }

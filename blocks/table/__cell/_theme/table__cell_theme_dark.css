@@ -1,0 +1,5 @@
+.table__cell_theme_dark {
+	z-index: 1;
+	color: #fff;
+	width: 200px;
+}
