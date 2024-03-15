@@ -3,4 +3,8 @@
 	position: relative;
 	padding: 60px 0;
 	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-end;
+	justify-content: center;
 }

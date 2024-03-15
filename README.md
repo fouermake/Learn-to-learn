@@ -5,12 +5,12 @@
 ## Используемые технологии и навыки
 - HTML
 - CSS
-    - Методология BEM
-    - Файловая структура Nested BEM
-    - Flex / position
-    - Анимация элементов через keyframes и transition
-    - Кроссбраузерность
-    - Адаптивный дизайн
+- Методология BEM
+- Файловая структура Nested BEM
+- Flex / position
+- Анимация элементов через keyframes и transition
+- Кроссбраузерность
+- Адаптивность
 
 ## Демонстрация
-* Сайт доступен по ссылке: https://fouermake.com/learntolearn
+Сайт доступен по ссылке: [fouermake.com/learntolearn](https://fouermake.com/learntolearn) 

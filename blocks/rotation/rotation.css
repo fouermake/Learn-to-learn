@@ -23,6 +23,6 @@
 }
 
 .rotation {
-	-webkit-animation: rotation 30s infinite linear;
-	animation: rotation 30s infinite linear;
+	-webkit-animation: rotation 20s infinite linear;
+	animation: rotation 20s infinite linear;
 }

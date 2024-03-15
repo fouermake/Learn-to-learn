@@ -5,4 +5,5 @@
 	margin-top: 100px;
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
+	justify-content: center;
 }
