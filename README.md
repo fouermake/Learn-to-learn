@@ -7,7 +7,6 @@
 - CSS
 - Методология BEM
 - Файловая структура Nested BEM
-- Flex / position
 - Анимация элементов через keyframes и transition
 - Кроссбраузерность
 - Адаптивность
